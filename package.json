@@ -1,0 +1,16 @@
+{
+  "name": "webpack-dependency-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "orphans": "echo \"Error: no test specified\" && exit 1",
+    "circular": "node circular-dep.js"
+  },
+  "keywords": [],
+  "author": "Mahdi Khashan",
+  "license": "ISC",
+  "dependencies": {
+    "madge": "^7.0.0"
+  }
+}

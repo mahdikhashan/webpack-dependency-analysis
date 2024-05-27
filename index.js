@@ -1,0 +1,2 @@
+const madge = require("madge");
+
