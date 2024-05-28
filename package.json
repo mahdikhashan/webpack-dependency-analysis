@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "orphans": "echo \"Error: no test specified\" && exit 1",
-    "circular": "node circular-dep.js"
+    "circular": "node circular-dep.js",
+    "example": "node visualize-example.js"
   },
   "keywords": [],
   "author": "Mahdi Khashan",
