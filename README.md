@@ -1,4 +1,4 @@
-# webpack-dependency-analysis
+# webpack-dev-server-dependency-analysis
 
 This project provides tools to analyze and visualize the dependency graph of your JavaScript code.
 
